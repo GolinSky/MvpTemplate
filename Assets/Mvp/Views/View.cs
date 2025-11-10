@@ -1,9 +1,8 @@
-﻿using Fps.MVP.Model;
-using Fps.MVP.Presenter;
+﻿using Mvp.Model;
+using Mvp.Presenter;
 using UnityEngine;
 
-
-namespace Fps.MVP.Views
+namespace Mvp.Views
 {
      public interface IView
     {

@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Fps.MVP.Model
+namespace Mvp.Model
 {
     public class Data: ScriptableObject
     {

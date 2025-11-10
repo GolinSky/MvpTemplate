@@ -1,4 +1,4 @@
-﻿namespace Fps.MVP.Model
+﻿namespace Mvp.Model
 {
     /// <summary>
     /// Model interface for view - get only data + events

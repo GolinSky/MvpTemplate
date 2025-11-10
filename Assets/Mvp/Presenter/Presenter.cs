@@ -1,7 +1,7 @@
-﻿using Fps.MVP.Model;
-using Fps.MVP.Views;
+﻿using Mvp.Model;
+using Mvp.Views;
 
-namespace Fps.MVP.Presenter
+namespace Mvp.Presenter
 {
     public interface IPresenter
     {

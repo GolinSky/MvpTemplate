@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fps.MVP.Model
+namespace Mvp.Model
 {
     [Serializable]
     public abstract class ComponentModel:IModel

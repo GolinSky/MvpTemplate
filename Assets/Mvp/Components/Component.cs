@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 
-
-namespace Fps.MVP.Components
+namespace Mvp.Components
 {
     public class Component : MonoBehaviour
     {

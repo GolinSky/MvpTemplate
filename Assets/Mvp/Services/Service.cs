@@ -1,4 +1,4 @@
-﻿namespace Fps.MVP.Services
+﻿namespace Mvp.Services
 {
     public interface IService
     {

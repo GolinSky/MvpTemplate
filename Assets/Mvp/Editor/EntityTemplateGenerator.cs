@@ -3,7 +3,7 @@ using System.Text;
 using UnityEditor;
 using UnityEngine;
 
-namespace Maze.MVP.Editor
+namespace Mvp.Editor
 {
     public class EntityTemplateGenerator : EditorWindow
     {
